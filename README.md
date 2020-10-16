@@ -10,3 +10,4 @@
   * [Exercise 1](fahrenheit_celsius_converter/)
   * [Exercise 2](nth_fibonacci_number/)
   * [Exercise 3](twelve_days_of_christmas/)
+* Chapter 4
