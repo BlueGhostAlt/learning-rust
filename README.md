@@ -11,3 +11,4 @@
   * [Exercise 2](nth_fibonacci_number/)
   * [Exercise 3](twelve_days_of_christmas/)
 * Chapter 4
+* [Chapter 5](rectangles/)
