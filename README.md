@@ -13,3 +13,4 @@
 * Chapter 4
 * [Chapter 5](rectangles/)
 * Chapter 6
+* Chapter 7
